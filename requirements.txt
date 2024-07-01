@@ -1,0 +1,3 @@
+Flask
+passlib
+owasp-password-strength
